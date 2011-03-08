@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = []
   s.email       = []
   s.homepage    = "http://rubygems.org/gems/uhh"
-  s.summary     = "TODO: Write a gem summary"
-  s.description = "TODO: Write a gem description"
+  s.summary     = "A gem that... uhh... lets you... uhh.. write uhh alot"
+  s.description = "put uhh after anything MAGIC!"
 
   s.required_rubygems_version = ">= 1.3.6"
   s.rubyforge_project         = "uhh"
