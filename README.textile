@@ -1,0 +1,17 @@
+
+h1. Uhh
+
+a uhh gem dedicated to M. Tuzzolo
+
+h2. Install
+
+gem install uhh
+
+h2. Usage:
+
+<pre>
+  <code>
+    "String".uhh.uhhh.uhh?.downcase
+  </code>
+</pre>
+
